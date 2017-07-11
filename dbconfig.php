@@ -7,8 +7,8 @@ ini_set('max_execution_time', 300);
 error_reporting(E_ALL); 
  */
 $host = "localhost";
-$username = "app";
-$password = "abcd1234";
+$username = "a******p";
+$password = "a******4";
 $database = "seroafgh";
 // create connection 
    define('DB_SERVER', 'localhost');
